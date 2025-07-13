@@ -1,4 +1,5 @@
 Overview
+
 This Power BI report provides a comprehensive analysis of business performance, focusing on sales, transactions, and customer insights. The report is structured across two main dashboard pages, each designed to deliver actionable information for business decision-makers.
 Page 1: Business Performance Dashboard – Sales, Transactions, and Trends
 Key Metrics:
@@ -40,4 +41,5 @@ Conditional Formatting: Highlights negative trends and outliers for quick identi
 Consistent Design: Uses a unified color palette and layout for professional, accessible user experience.
 
 Value
+
 This report equips stakeholders with clear, actionable insights into both overall business performance and detailed customer analytics. It supports data-driven decision-making and helps identify growth opportunities, operational strengths, and areas for improvement.
